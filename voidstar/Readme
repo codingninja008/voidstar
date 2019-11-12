@@ -1,0 +1,37 @@
+Instructions
+
+Created using:
+
+1: Python (3.7.3)
+2: HTML & CSS
+3: Bootstrap 3
+4: Django (2.2.5)
+
+Instructions:
+
+1: Run Anaconda Prompt
+2: Go to directory containing the project
+3: Type "python manage.py runserver" to run the server.
+4: Copy the ip address in order to view the website.
+
+Functions:
+
+Unregistered User Functions:
+1:Void Stars (Home)
+2:Groups
+3:Log in
+4:Signup
+
+Unregistered users are required to register and login before being 
+able to join group,leave group, publish post and delete post.
+
+Registered User Functions:
+1: Void Stars (Home)
+2: Post
+3: Groups
+4: Create Group
+5: Log out
+
+Created Users:
+
+1: Kyle | makan1234
